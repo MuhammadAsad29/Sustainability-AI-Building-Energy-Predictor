@@ -32,6 +32,7 @@ Environment: Google Colab / Jupyter Notebook
 Metric	Power (kWh)	CO₂ (kg)
 RMSE	3.6860	2.2831
 R² Score	0.9153	0.9156
+
 📂 Dataset Source
 
 The dataset represents building energy usage logs and is available in the /data folder of this repository.
